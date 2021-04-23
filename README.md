@@ -1,2 +1,2 @@
-# KILL-THE-MONSTER
- KILL THE MONSTER
+# kill-the-monster-game
+kill-the-monster-game
